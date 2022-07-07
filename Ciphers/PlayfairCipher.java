@@ -1,3 +1,4 @@
+package Ciphers;
 import java.util.*; 
 
 class Playfair { 

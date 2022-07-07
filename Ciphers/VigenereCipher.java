@@ -1,4 +1,4 @@
-// Java code to implement Vigenere Cipher
+package Ciphers;
 
 class VigenereCipher
 {
